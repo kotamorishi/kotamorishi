@@ -14,7 +14,7 @@ https://www.youtube.com/channel/UCsgQtIeFObrixeJIYBCi5VQ
 I am storing the code for my YouTube videos.
 https://www.youtube.com/channel/UCsgQtIeFObrixeJIYBCi5VQ
 
-Mainly I store example of "How to use sensor".
-This repos are basically one-off code (disposable code) that I made just for the purpose.
+I store example of "How to use sensor" or proof of concepts.
+These are not really useful and use it your own risk.
 
-**If you find bugs, please send me a pull request. **
+**If you find bugs, please send me a pull request/how to reproduce. **
