@@ -11,10 +11,7 @@ https://www.youtube.com/channel/UCsgQtIeFObrixeJIYBCi5VQ
 
 ### Hello.
 
-I am storing the code for my YouTube videos.
+Most projects are just for my YouTube videos.
 https://www.youtube.com/channel/UCsgQtIeFObrixeJIYBCi5VQ
-
-I store example of "How to use sensor" or proof of concepts.
-These are not really useful and use it at your own risk.
 
 **If you find bugs, please send me a pull request/how to reproduce. **
